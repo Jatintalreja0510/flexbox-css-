@@ -2,7 +2,7 @@ description - in this project we build a flebox crash course page using html and
 screenshot - 
 ![image](https://github.com/Jatintalreja0510/flexbox-css-/assets/141000419/9dcc0edb-b394-4c13-aedb-3343254f6325)
 
-live url - http://127.0.0.1:5500/index.html
+live url - [http://127.0.0.1:5500/index.html](https://deft-pixie-f35080.netlify.app)
 code - 
 <!DOCTYPE html>
 <html lang="en">
